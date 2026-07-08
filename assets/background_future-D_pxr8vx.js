@@ -1,0 +1,1 @@
+var e=``+new URL(`background_future-DWdTL1TR.png`,import.meta.url).href;export{e as default};

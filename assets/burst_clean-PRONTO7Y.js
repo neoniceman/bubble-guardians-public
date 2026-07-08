@@ -1,0 +1,1 @@
+var e=``+new URL(`burst_clean-jozCV2H8.png`,import.meta.url).href;export{e as default};

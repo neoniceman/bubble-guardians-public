@@ -1,0 +1,1 @@
+var e=``+new URL(`background_future_mobile-D2hcf18X.webp`,import.meta.url).href;export{e as default};

@@ -1,0 +1,1 @@
+var e=``+new URL(`background_premium-CFL55ar5.png`,import.meta.url).href;export{e as default};

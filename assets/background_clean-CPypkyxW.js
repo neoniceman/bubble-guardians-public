@@ -1,0 +1,1 @@
+var e=``+new URL(`background_clean-DYuNklL_.png`,import.meta.url).href;export{e as default};

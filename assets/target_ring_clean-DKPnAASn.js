@@ -1,0 +1,1 @@
+var e=``+new URL(`target_ring_clean-CavI-voG.png`,import.meta.url).href;export{e as default};

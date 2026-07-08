@@ -1,0 +1,1 @@
+var e=``+new URL(`bubble_red_clean-BIJATNiN.png`,import.meta.url).href;export{e as default};

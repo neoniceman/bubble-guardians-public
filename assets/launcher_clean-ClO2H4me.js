@@ -1,1 +1,0 @@
-var e=``+new URL(`launcher_clean-C0dpTuH7.png`,import.meta.url).href;export{e as default};

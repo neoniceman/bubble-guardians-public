@@ -1,0 +1,1 @@
+var e=``+new URL(`bubble_yellow_clean-GMB601zt.png`,import.meta.url).href;export{e as default};

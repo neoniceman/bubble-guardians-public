@@ -1,0 +1,1 @@
+var e=``+new URL(`launcher_clean-Dv0eDfOP.png`,import.meta.url).href;export{e as default};
